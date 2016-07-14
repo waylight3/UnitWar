@@ -1,6 +1,6 @@
 # UnitWar
 ## What it is
-UnitWar is simple unit base war-game. User can make type of unit and they will be used to fight with others.
+UnitWar is simple unit-base wargame. User can make type of unit and they will be used to fight with others.
 
 ## Info
 * Developer: waylight3 (waylight3@naver.com)
