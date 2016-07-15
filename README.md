@@ -17,3 +17,7 @@ UnitWar is simple unit-base wargame. User can make and control type of unit and 
  * add material kit
  * set min-zoom(5) and max-zoom(30)
  * change direction from z-axis to y-axis for apply gravity
+* 0.0.3
+ * make unit draggable
+ * make screen draggable
+ * prevent making unit above(or below) another unit
